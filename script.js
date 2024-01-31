@@ -11,3 +11,5 @@ const sayHello = (name, familyName) => {
 const firstName = "Benjamin"
 const lastName = "BODIN"
 sayHello (firstName, lastName)
+
+console.log("Je t'aime evan");
