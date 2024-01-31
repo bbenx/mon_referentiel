@@ -12,10 +12,7 @@ if (age) {
 }
 
 else if(age<18) {
-    console.log('Est mineur')
+    console.log('Est mineur maggle')
 }
 
-else {
-    console.log('est majeur')
-}
 
