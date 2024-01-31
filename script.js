@@ -12,4 +12,6 @@ const firstName = "Benjamin"
 const lastName = "BODIN"
 sayHello (firstName, lastName)
 
+console.log("coucou c'est moi"
+
 console.log("Je t'aime evan");
